@@ -34,9 +34,3 @@
 - 🌍 I speak multiple languages
 - 🎨 In my free time, I enjoy digital art
 
-<br>
-
-## 📊 This Week I Spent My Time On
-<!--START_SECTION:waka-->
-```text
-No activity tracked
